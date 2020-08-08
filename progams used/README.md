@@ -1,2 +1,2 @@
-#programs
-This folder contains programs that have been used for conducting research relevant to the project.
+# programs
+This folder contains the program(s) that have been used for conducting research relevant to the project.
